@@ -1,6 +1,6 @@
 # Ramez — Web design portfolio
 
-A responsive, buildless portfolio for [ramez961](https://github.com/ramez961). The page showcases four web projects and includes all five known public repositories, including this portfolio. It refreshes the complete public repository list from GitHub on each visit, with pagination, search, filters, and an offline fallback. No credentials are exposed.
+A responsive, buildless web design portfolio for [ramez961](https://github.com/ramez961). The positioning brings marketing, identity, photography, and motion together as supporting skills for complete website experiences. The page showcases four repository-based websites, three website case studies, and all five known public repositories, including this portfolio. It refreshes the complete public repository list from GitHub on each visit, with pagination, search, filters, and an offline fallback. No credentials are exposed.
 
 ## Preview
 
@@ -12,8 +12,14 @@ The repository root `index.html` is the deployable page. In repository Settings 
 
 ## Edit
 
-Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. Project previews are editorial compositions using styles and assets from the original projects, rather than screenshots. GitHub and Google Fonts are external resources; local fonts and the included repository collection remain usable if those services fail. Newly added public repositories appear automatically in the archive; selected project previews are curated manually.
+Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. Project previews are actual desktop captures of the original websites. The three website studies cover The Realest Estate, Ronins, and Khalik Fahem / 02. Eight supplied brand-work samples are available in a supporting collection, alongside a behind-the-scenes photograph. Gallery images open in a native dialog with keyboard dismissal and focus restoration. Newly added public repositories appear automatically in the archive; selected project previews are curated manually.
 
-The biography, six career entries, brand experience, skills, education, language proficiency, email address, and phone number were supplied in Ramez Abou Azar’s 2026 portfolio and résumé. The documents are used as content sources; the visual design is independently developed. Career dates reflect the supplied résumé. The source PDFs and their credential IDs are not published by this site.
+Seven supplied animation clips are included as optimized H.264 MP4 files with original audio where present, fast-start metadata, poster images, and native playback controls. They do not autoplay or preload video content. Playing a clip pauses the others, and closing the additional motion studies pauses their videos. The animation section supports the web-design positioning rather than presenting a separate service portfolio.
+
+Keep `assets/` beside `index.html` when publishing. Images are optimized WebP exports of selected finished work. Source artwork, internal documents, and unrelated reference files are not included. GitHub and Google Fonts are external resources; local font fallbacks and the included repository collection remain usable if those services fail.
+
+The biography, six career entries, brand experience, skills, education, language proficiency, email address, and phone number were supplied in Ramez Abou Azar’s 2026 portfolio and résumé. The documents are used as content sources; the visual design is independently developed. Career dates reflect the supplied résumé. The supplied résumé is available as a PDF download; the complete source portfolio PDF is not published.
+
+Case study descriptions identify the focus, documented contribution, visible design direction, and deliverables. They do not claim independently measured business outcomes.
 
 The contact section provides working email and telephone links. GitHub remains available from the header and repository archive.
