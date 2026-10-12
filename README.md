@@ -14,4 +14,6 @@ The repository root `index.html` is the deployable page. In repository Settings 
 
 Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. Project previews are editorial compositions using styles and assets from the original projects, rather than screenshots. GitHub and Google Fonts are external resources; local fonts and the included repository collection remain usable if those services fail. Newly added public repositories appear automatically in the archive; selected project previews are curated manually.
 
-No personal email address was supplied, so the contact section links to the real GitHub profile.
+The biography, six career entries, brand experience, skills, education, language proficiency, email address, and phone number were supplied in Ramez Abou Azar’s 2026 portfolio and résumé. The documents are used as content sources; the visual design is independently developed. Career dates reflect the supplied résumé. The source PDFs and their credential IDs are not published by this site.
+
+The contact section provides working email and telephone links. GitHub remains available from the header and repository archive.
