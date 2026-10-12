@@ -1,6 +1,6 @@
 # Ramez — Web design portfolio
 
-A responsive, buildless web design portfolio for [ramez961](https://github.com/ramez961). The positioning brings marketing, identity, photography, and motion together as supporting skills for complete website experiences. The page showcases four repository-based websites, three website case studies, and all five known public repositories, including this portfolio. It refreshes the complete public repository list from GitHub on each visit, with pagination, search, filters, and an offline fallback. No credentials are exposed.
+A responsive, buildless web design portfolio for [ramez961](https://github.com/ramez961). The positioning brings marketing, identity, photography, and motion together as supporting skills for complete website experiences. The page showcases four repository-based websites, three website case studies, and a repository archive. It refreshes the public repository list from GitHub on each visit, with pagination, search, filters, and an offline fallback. The original Khalik Fahem version is excluded from the showcase; `Khalik-Fahem-2` is displayed as **Khalik Fahem**. No credentials are exposed.
 
 ## Preview
 
@@ -12,7 +12,9 @@ The repository root `index.html` is the deployable page. In repository Settings 
 
 ## Edit
 
-Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. Project previews are actual desktop captures of the original websites. The three website studies cover The Realest Estate, Ronins, and Khalik Fahem / 02. Eight supplied brand-work samples are available in a supporting collection, alongside a behind-the-scenes photograph. Gallery images open in a native dialog with keyboard dismissal and focus restoration. Newly added public repositories appear automatically in the archive; selected project previews are curated manually.
+Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. Featured projects are Ronins, Trading Niche Webinar, Khalik Fahem, and Maison du Cèdre / MDC. MDC links to its repository; its preview was rendered from the repository source because no live homepage was configured. The three website studies cover The Realest Estate, Ronins, and Khalik Fahem.
+
+Six graphic design samples are visible directly on the page: Saudi Arabian Grand Prix, Saudi Motorsports Company, Yas Marina Circuit, Hamburgini, Framez, and MM Fitness Pro. Four additional photography and brand-work samples remain expandable. Gallery images open in a native dialog with keyboard dismissal and focus restoration. Newly added public repositories appear automatically in the archive, apart from the explicitly excluded original Khalik Fahem; selected project previews are curated manually.
 
 Seven supplied animation clips are included as optimized H.264 MP4 files with original audio where present, fast-start metadata, poster images, and native playback controls. They do not autoplay or preload video content. Playing a clip pauses the others, and closing the additional motion studies pauses their videos. The animation section supports the web-design positioning rather than presenting a separate service portfolio.
 
