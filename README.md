@@ -4,7 +4,7 @@ A responsive, buildless web design portfolio for [ramez961](https://github.com/r
 
 ## Preview
 
-Open `dist/index.html`, or serve `dist/` with any static web server. No package installation or build is needed.
+Open `index.html` directly, or serve the repository root with any static web server. No package installation or build is needed.
 
 ## GitHub Pages
 
@@ -24,4 +24,6 @@ The biography, six career entries, brand experience, skills, education, language
 
 Case study descriptions identify the focus, documented contribution, visible design direction, and deliverables. They do not claim independently measured business outcomes.
 
-The contact section provides working email and telephone links. GitHub remains available from the header and repository archive.
+Page order: selected work and case studies, services, about, motion, graphic design, experience, repository archive, and contact. The sticky header links to each main section, highlights the one in view, and keeps a “Let’s talk” button within reach. Sections fade in on scroll unless the visitor prefers reduced motion.
+
+The contact section provides working email and telephone links. GitHub is linked from the repository archive and the footer. Open Graph tags assume the GitHub Pages URL above; update them if the site moves to a custom domain.
