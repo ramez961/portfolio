@@ -12,11 +12,15 @@ The repository root `index.html` is the deployable page. In repository Settings 
 
 ## Edit
 
-Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. Featured projects are Ronins, Trading Niche Webinar, Khalik Fahem, and Maison du Cèdre / MDC. MDC links to its repository; its preview was rendered from the repository source because no live homepage was configured. The three website studies cover The Realest Estate, Ronins, and Khalik Fahem.
+Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. The hero shows a fanned stack of website captures that spreads on hover, followed by a scrolling marquee of brands from the 2026 portfolio (static when the visitor prefers reduced motion).
 
-Six graphic design samples are visible directly on the page: Saudi Arabian Grand Prix, Saudi Motorsports Company, Yas Marina Circuit, Hamburgini, Framez, and MM Fitness Pro. Four additional photography and brand-work samples remain expandable. Gallery images open in a native dialog with keyboard dismissal and focus restoration. Newly added public repositories appear automatically in the archive, apart from the explicitly excluded original Khalik Fahem; selected project previews are curated manually.
+Selected work opens with three website studies, each with its own tinted panel: Ronins (featured, full width), Khalik Fahem, and The Realest Estate. Trading Niche Webinar and Maison du Cèdre / MDC follow as “More website builds”. MDC links to its repository; its preview was rendered from the repository source because no live homepage was configured.
 
-Seven supplied animation clips are included as optimized H.264 MP4 files with original audio where present, fast-start metadata, poster images, and native playback controls. They do not autoplay or preload video content. Playing a clip pauses the others, and closing the additional motion studies pauses their videos. The animation section supports the web-design positioning rather than presenting a separate service portfolio.
+Graphic design samples sit in a justified mosaic: each row sizes its images by aspect ratio (`--r`), so nothing is letterboxed. Visible: Saudi Arabian Grand Prix, Yas Marina Circuit, Saudi Motorsports Company, Framez, Hamburgini, and MM Fitness Pro; four photography samples remain expandable. Gallery images open in a native dialog with keyboard dismissal and focus restoration. Newly added public repositories appear automatically in the archive, apart from the explicitly excluded original Khalik Fahem.
+
+Seven animation clips are optimized H.264 MP4 files with poster images, shown as a tile grid with Punk Wurst featured. Clips do not preload. On devices with a mouse, hovering previews a clip muted; selecting a tile plays it with sound, and starting one pauses the others.
+
+A lime “In numbers” band shows organic follower growth (@saudiarabiangp, @saudimotorsport, @houseofdiamond.shop) and a top reel’s views, taken from the statistics page of the 2026 portfolio PDF. The figures count up on scroll.
 
 Keep `assets/` beside `index.html` when publishing. Images are optimized WebP exports of selected finished work. Source artwork, internal documents, and unrelated reference files are not included. GitHub and Google Fonts are external resources; local font fallbacks and the included repository collection remain usable if those services fail.
 
