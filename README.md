@@ -1,6 +1,6 @@
 # Ramez — Web design portfolio
 
-A responsive, buildless web design portfolio for [ramez961](https://github.com/ramez961). The positioning brings marketing, identity, photography, and motion together as supporting skills for complete website experiences. The page showcases four repository-based websites, four website case studies, and a repository archive. It refreshes the public repository list from GitHub on each visit, with pagination, search, filters, and an offline fallback. The original Khalik Fahem version is excluded from the showcase; `Khalik-Fahem-2` is displayed as **Khalik Fahem**. No credentials are exposed.
+A responsive, buildless web design portfolio for [ramez961](https://github.com/ramez961). The positioning brings marketing, identity, photography, and motion together as supporting skills for complete website experiences. The page showcases curated repository-based websites, five website case studies, and a repository archive. It refreshes the public repository list from GitHub on each visit, with pagination, search, filters, and an offline fallback. The original Khalik Fahem version is excluded from the showcase; `Khalik-Fahem-2` is displayed as **Khalik Fahem**. No credentials are exposed.
 
 ## Preview
 
@@ -14,7 +14,7 @@ The repository root `index.html` is the deployable page. In repository Settings 
 
 Edit the page’s copy, colors, selected-project links, and `descriptions` map in `index.html`. The hero shows a fanned stack of website captures that spreads on hover, followed by a scrolling marquee of brands from the 2026 portfolio (static when the visitor prefers reduced motion).
 
-Selected work opens with four website studies, each with its own tinted panel: Ronins (featured, full width), Khalik Fahem, The Realest Estate, and FORM Athletic Club (a concept site with its own case study page). Trading Niche Webinar and Maison du Cèdre / MDC follow as “More website builds”. MDC links to its repository; its preview was rendered from the repository source because no live homepage was configured.
+Selected work opens with five website studies, each with its own tinted panel: Ronins (featured, full width), Khalik Fahem, The Realest Estate, and FORM Athletic Club (a concept site with its own case study page), and Brennar (an outdoor storefront concept with a browser-local catalog dashboard). Trading Niche Webinar and Maison du Cèdre / MDC follow as “More website builds”. MDC links to its repository; its preview was rendered from the repository source because no live homepage was configured.
 
 Graphic design samples sit in a justified mosaic: each row sizes its images by aspect ratio (`--r`), so nothing is letterboxed. Visible: Saudi Arabian Grand Prix, Yas Marina Circuit, Saudi Motorsports Company, Framez, Hamburgini, and MM Fitness Pro; four photography samples remain expandable. Gallery images open in a native dialog with keyboard dismissal and focus restoration. Newly added public repositories appear automatically in the archive, apart from the explicitly excluded original Khalik Fahem.
 
@@ -31,3 +31,5 @@ Case study descriptions identify the focus, documented contribution, visible des
 Page order: selected work and case studies, services, about, motion, graphic design, experience, repository archive, and contact. The sticky header links to each main section, highlights the one in view, and keeps a “Let’s talk” button within reach. Sections fade in on scroll unless the visitor prefers reduced motion.
 
 The contact section provides working email and telephone links. GitHub is linked from the repository archive and the footer. Open Graph tags assume the GitHub Pages URL above; update them if the site moves to a custom domain.
+
+Brennar is presented as a storefront concept with demo checkout, generated product imagery, custom categories, and a browser-local management studio. Its actual optimized website capture is included. The documented image-asset reduction is 25.3 MB to about 584 KB (97.7%); no live deployment or measured business outcome is claimed. Brennar is also included in the repository archive’s offline fallback.
